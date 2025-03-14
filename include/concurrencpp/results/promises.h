@@ -9,6 +9,7 @@
 #include "concurrencpp/task.h"
 
 #include <vector>
+#include <algorithm>
 
 #include "constants.h"
 #include "concurrencpp/errors.h"
